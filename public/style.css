@@ -1,0 +1,14 @@
+
+
+.container{
+   margin-top: 150px;
+    background-color: rgb(240, 239, 226);
+}
+
+body {
+    background: url(bg2.jpg) no-repeat;
+    -moz-background-size: 100%; 
+    -webkit-background-size: 100%; 
+    -o-background-size: 100%; 
+    background-size: 100%; 
+   }
